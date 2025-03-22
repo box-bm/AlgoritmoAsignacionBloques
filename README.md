@@ -50,7 +50,7 @@ Esta clase actúa como el controlador principal del sistema de asignación de me
 
 ```bash
 javac MemoryAllocation.java
-java Main
+java MemoryAllocation
 ```
 
 El programa solicitará información sobre los procesos y mostrará cómo se asignan y liberan los bloques de memoria.
